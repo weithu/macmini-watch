@@ -1,30 +1,6 @@
 {
-  "Apple Refurb|Refurbished Mac mini Apple M4|1019": {
-    "price": 1019,
-    "retailer": "Apple Refurb",
-    "url": "https://www.apple.com/shop/refurbished/mac/mac-mini",
-    "variant": "Refurbished Mac mini Apple M4"
-  },
-  "Apple Refurb|Refurbished Mac mini Apple M4|1099": {
-    "price": 1099,
-    "retailer": "Apple Refurb",
-    "url": "https://www.apple.com/shop/refurbished/mac/mac-mini",
-    "variant": "Refurbished Mac mini Apple M4"
-  },
-  "Apple Refurb|Refurbished Mac mini Apple M4|1189": {
-    "price": 1189,
-    "retailer": "Apple Refurb",
-    "url": "https://www.apple.com/shop/refurbished/mac/mac-mini",
-    "variant": "Refurbished Mac mini Apple M4"
-  },
-  "Apple Refurb|Refurbished Mac mini Apple M4|1359": {
-    "price": 1359,
-    "retailer": "Apple Refurb",
-    "url": "https://www.apple.com/shop/refurbished/mac/mac-mini",
-    "variant": "Refurbished Mac mini Apple M4"
-  },
-  "Apple Refurb|Refurbished Mac mini Apple M4|589": {
-    "price": 589,
+  "Apple Refurb|Refurbished Mac mini Apple M4|1299": {
+    "price": 1299,
     "retailer": "Apple Refurb",
     "url": "https://www.apple.com/shop/refurbished/mac/mac-mini",
     "variant": "Refurbished Mac mini Apple M4"
@@ -46,65 +22,5 @@
     "retailer": "Apple Refurb",
     "url": "https://www.apple.com/shop/refurbished/mac/mac-mini",
     "variant": "Refurbished Mac mini Apple M4"
-  },
-  "Apple Refurb|refurbished/mac\",\"partNumber\":\"FU9E3LL/A\",\"basePartNumber\":\"FU9E3\",\"commitCodeId\":0,\"customerCommitString\":\"Within 24 hours\"},\"sortOrder\":1,|799": {
-    "price": 799,
-    "retailer": "Apple Refurb",
-    "url": "https://www.apple.com/shop/refurbished/mac/mac-mini",
-    "variant": "refurbished/mac\",\"partNumber\":\"FU9E3LL/A\",\"basePartNumber\":\"FU9E3\",\"commitCodeId\":0,\"customerCommitString\":\"Within 24 hours\"},\"sortOrder\":1,"
-  },
-  "Apple Refurb|refurbished/mac\",\"partNumber\":\"G1CF4LL/A\",\"basePartNumber\":\"G1CF4\",\"commitCodeId\":0,\"customerCommitString\":\"Within 24 hours\"},\"sortOrder\":0,|589": {
-    "price": 589,
-    "retailer": "Apple Refurb",
-    "url": "https://www.apple.com/shop/refurbished/mac/mac-mini",
-    "variant": "refurbished/mac\",\"partNumber\":\"G1CF4LL/A\",\"basePartNumber\":\"G1CF4\",\"commitCodeId\":0,\"customerCommitString\":\"Within 24 hours\"},\"sortOrder\":0,"
-  },
-  "Apple Refurb|refurbished/mac\",\"partNumber\":\"G1CF5LL/A\",\"basePartNumber\":\"G1CF5\",\"commitCodeId\":0,\"customerCommitString\":\"Within 24 hours\"},\"sortOrder\":3,|759": {
-    "price": 759,
-    "retailer": "Apple Refurb",
-    "url": "https://www.apple.com/shop/refurbished/mac/mac-mini",
-    "variant": "refurbished/mac\",\"partNumber\":\"G1CF5LL/A\",\"basePartNumber\":\"G1CF5\",\"commitCodeId\":0,\"customerCommitString\":\"Within 24 hours\"},\"sortOrder\":3,"
-  },
-  "Apple Refurb|refurbished/mac\",\"partNumber\":\"G1CF7LL/A\",\"basePartNumber\":\"G1CF7\",\"commitCodeId\":0,\"customerCommitString\":\"Within 24 hours\"},\"sortOrder\":4,|849": {
-    "price": 849,
-    "retailer": "Apple Refurb",
-    "url": "https://www.apple.com/shop/refurbished/mac/mac-mini",
-    "variant": "refurbished/mac\",\"partNumber\":\"G1CF7LL/A\",\"basePartNumber\":\"G1CF7\",\"commitCodeId\":0,\"customerCommitString\":\"Within 24 hours\"},\"sortOrder\":4,"
-  },
-  "Apple Refurb|refurbished/mac\",\"partNumber\":\"G1CF9LL/A\",\"basePartNumber\":\"G1CF9\",\"commitCodeId\":0,\"customerCommitString\":\"Within 24 hours\"},\"sortOrder\":2,|679": {
-    "price": 679,
-    "retailer": "Apple Refurb",
-    "url": "https://www.apple.com/shop/refurbished/mac/mac-mini",
-    "variant": "refurbished/mac\",\"partNumber\":\"G1CF9LL/A\",\"basePartNumber\":\"G1CF9\",\"commitCodeId\":0,\"customerCommitString\":\"Within 24 hours\"},\"sortOrder\":2,"
-  },
-  "Apple Refurb|refurbished/mac\",\"partNumber\":\"G1CG1LL/A\",\"basePartNumber\":\"G1CG1\",\"commitCodeId\":0,\"customerCommitString\":\"Within 24 hours\"},\"sortOrder\":5,|1019": {
-    "price": 1019,
-    "retailer": "Apple Refurb",
-    "url": "https://www.apple.com/shop/refurbished/mac/mac-mini",
-    "variant": "refurbished/mac\",\"partNumber\":\"G1CG1LL/A\",\"basePartNumber\":\"G1CG1\",\"commitCodeId\":0,\"customerCommitString\":\"Within 24 hours\"},\"sortOrder\":5,"
-  },
-  "Apple Refurb|refurbished/mac\",\"partNumber\":\"G1JX0LL/A\",\"basePartNumber\":\"G1JX0\",\"commitCodeId\":0,\"customerCommitString\":\"Within 24 hours\"},\"sortOrder\":7,|1099": {
-    "price": 1099,
-    "retailer": "Apple Refurb",
-    "url": "https://www.apple.com/shop/refurbished/mac/mac-mini",
-    "variant": "refurbished/mac\",\"partNumber\":\"G1JX0LL/A\",\"basePartNumber\":\"G1JX0\",\"commitCodeId\":0,\"customerCommitString\":\"Within 24 hours\"},\"sortOrder\":7,"
-  },
-  "Apple Refurb|refurbished/mac\",\"partNumber\":\"G1JX1LL/A\",\"basePartNumber\":\"G1JX1\",\"commitCodeId\":0,\"customerCommitString\":\"Within 24 hours\"},\"sortOrder\":8,|1189": {
-    "price": 1189,
-    "retailer": "Apple Refurb",
-    "url": "https://www.apple.com/shop/refurbished/mac/mac-mini",
-    "variant": "refurbished/mac\",\"partNumber\":\"G1JX1LL/A\",\"basePartNumber\":\"G1JX1\",\"commitCodeId\":0,\"customerCommitString\":\"Within 24 hours\"},\"sortOrder\":8,"
-  },
-  "Apple Refurb|refurbished/mac\",\"partNumber\":\"G1KZALL/A\",\"basePartNumber\":\"G1KZA\",\"commitCodeId\":0,\"customerCommitString\":\"Within 24 hours\"},\"sortOrder\":16|1359": {
-    "price": 1359,
-    "retailer": "Apple Refurb",
-    "url": "https://www.apple.com/shop/refurbished/mac/mac-mini",
-    "variant": "refurbished/mac\",\"partNumber\":\"G1KZALL/A\",\"basePartNumber\":\"G1KZA\",\"commitCodeId\":0,\"customerCommitString\":\"Within 24 hours\"},\"sortOrder\":16"
-  },
-  "Apple Refurb|refurbished/mac\",\"partNumber\":\"G1KZQLL/A\",\"basePartNumber\":\"G1KZQ\",\"commitCodeId\":0,\"customerCommitString\":\"Within 24 hours\"},\"sortOrder\":17|1359": {
-    "price": 1359,
-    "retailer": "Apple Refurb",
-    "url": "https://www.apple.com/shop/refurbished/mac/mac-mini",
-    "variant": "refurbished/mac\",\"partNumber\":\"G1KZQLL/A\",\"basePartNumber\":\"G1KZQ\",\"commitCodeId\":0,\"customerCommitString\":\"Within 24 hours\"},\"sortOrder\":17"
   }
 }
