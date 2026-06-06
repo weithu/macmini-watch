@@ -1,1 +1,14 @@
-{}
+{
+  "Apple Refurb|Refurbished Mac mini Apple M4|1099": {
+    "price": 1099,
+    "retailer": "Apple Refurb",
+    "url": "https://www.apple.com/shop/refurbished/mac/mac-mini",
+    "variant": "Refurbished Mac mini Apple M4"
+  },
+  "Apple Refurb|Refurbished Mac mini Apple M4|849": {
+    "price": 849,
+    "retailer": "Apple Refurb",
+    "url": "https://www.apple.com/shop/refurbished/mac/mac-mini",
+    "variant": "Refurbished Mac mini Apple M4"
+  }
+}
