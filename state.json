@@ -1,26 +1,38 @@
 {
+  "Apple Refurb|Refurbished Mac mini Apple M4|1019": {
+    "price": 1019,
+    "retailer": "Apple Refurb",
+    "url": "https://www.apple.com/shop/refurbished/mac/mac-mini",
+    "variant": "Refurbished Mac mini Apple M4"
+  },
+  "Apple Refurb|Refurbished Mac mini Apple M4|1199": {
+    "price": 1199,
+    "retailer": "Apple Refurb",
+    "url": "https://www.apple.com/shop/refurbished/mac/mac-mini",
+    "variant": "Refurbished Mac mini Apple M4"
+  },
+  "Apple Refurb|Refurbished Mac mini Apple M4|1269": {
+    "price": 1269,
+    "retailer": "Apple Refurb",
+    "url": "https://www.apple.com/shop/refurbished/mac/mac-mini",
+    "variant": "Refurbished Mac mini Apple M4"
+  },
+  "Apple Refurb|Refurbished Mac mini Apple M4|1289": {
+    "price": 1289,
+    "retailer": "Apple Refurb",
+    "url": "https://www.apple.com/shop/refurbished/mac/mac-mini",
+    "variant": "Refurbished Mac mini Apple M4"
+  },
+  "Apple Refurb|Refurbished Mac mini Apple M4|1299": {
+    "price": 1299,
+    "retailer": "Apple Refurb",
+    "url": "https://www.apple.com/shop/refurbished/mac/mac-mini",
+    "variant": "Refurbished Mac mini Apple M4"
+  },
   "Apple Refurb|Refurbished Mac mini Apple M4|849": {
     "price": 849,
     "retailer": "Apple Refurb",
     "url": "https://www.apple.com/shop/refurbished/mac/mac-mini",
     "variant": "Refurbished Mac mini Apple M4"
-  },
-  "Apple Refurb|Refurbished Mac mini Apple M4|929": {
-    "price": 929,
-    "retailer": "Apple Refurb",
-    "url": "https://www.apple.com/shop/refurbished/mac/mac-mini",
-    "variant": "Refurbished Mac mini Apple M4"
-  },
-  "Apple Refurb|refurbished/mac\",\"partNumber\":\"FU9E3LL/A\",\"basePartNumber\":\"FU9E3\",\"commitCodeId\":0,\"customerCommitString\":\"Within 24 hours\"},\"partNumber\":\"|999": {
-    "price": 999,
-    "retailer": "Apple Refurb",
-    "url": "https://www.apple.com/shop/refurbished/mac/mac-mini",
-    "variant": "refurbished/mac\",\"partNumber\":\"FU9E3LL/A\",\"basePartNumber\":\"FU9E3\",\"commitCodeId\":0,\"customerCommitString\":\"Within 24 hours\"},\"partNumber\":\""
-  },
-  "Apple Refurb|refurbished/mac\",\"partNumber\":\"G1CF0LL/A\",\"basePartNumber\":\"G1CF0\",\"commitCodeId\":0,\"customerCommitString\":\"Within 24 hours\"},\"partNumber\":\"|929": {
-    "price": 929,
-    "retailer": "Apple Refurb",
-    "url": "https://www.apple.com/shop/refurbished/mac/mac-mini",
-    "variant": "refurbished/mac\",\"partNumber\":\"G1CF0LL/A\",\"basePartNumber\":\"G1CF0\",\"commitCodeId\":0,\"customerCommitString\":\"Within 24 hours\"},\"partNumber\":\""
   }
 }
