@@ -1,32 +1,14 @@
 {
-  "Apple Refurb|Refurbished Mac mini Apple M4|1099": {
-    "price": 1099,
-    "retailer": "Apple Refurb",
-    "url": "https://www.apple.com/shop/refurbished/mac/mac-mini",
-    "variant": "Refurbished Mac mini Apple M4"
-  },
   "Apple Refurb|Refurbished Mac mini Apple M4|1529": {
     "price": 1529,
     "retailer": "Apple Refurb",
     "url": "https://www.apple.com/shop/refurbished/mac/mac-mini",
     "variant": "Refurbished Mac mini Apple M4"
   },
-  "Apple Refurb|refurbished/mac\",\"partNumber\":\"G1CF7LL/A\",\"basePartNumber\":\"G1CF7\",\"commitCodeId\":0,\"customerCommitString\":\"Within 24 hours\"},\"title\":\"Refur|1099": {
-    "price": 1099,
+  "Apple Refurb|Refurbished Mac mini Apple M4|1609": {
+    "price": 1609,
     "retailer": "Apple Refurb",
     "url": "https://www.apple.com/shop/refurbished/mac/mac-mini",
-    "variant": "refurbished/mac\",\"partNumber\":\"G1CF7LL/A\",\"basePartNumber\":\"G1CF7\",\"commitCodeId\":0,\"customerCommitString\":\"Within 24 hours\"},\"title\":\"Refur"
-  },
-  "Apple Refurb|refurbished/mac\",\"partNumber\":\"G1CF8LL/A\",\"basePartNumber\":\"G1CF8\",\"commitCodeId\":0,\"customerCommitString\":\"Within 24 hours\"},\"title\":\"Refur|1529": {
-    "price": 1529,
-    "retailer": "Apple Refurb",
-    "url": "https://www.apple.com/shop/refurbished/mac/mac-mini",
-    "variant": "refurbished/mac\",\"partNumber\":\"G1CF8LL/A\",\"basePartNumber\":\"G1CF8\",\"commitCodeId\":0,\"customerCommitString\":\"Within 24 hours\"},\"title\":\"Refur"
-  },
-  "Apple Refurb|refurbished/mac\",\"partNumber\":\"G1KZQLL/A\",\"basePartNumber\":\"G1KZQ\",\"commitCodeId\":0,\"customerCommitString\":\"Within 24 hours\"},\"title\":\"Refur|1529": {
-    "price": 1529,
-    "retailer": "Apple Refurb",
-    "url": "https://www.apple.com/shop/refurbished/mac/mac-mini",
-    "variant": "refurbished/mac\",\"partNumber\":\"G1KZQLL/A\",\"basePartNumber\":\"G1KZQ\",\"commitCodeId\":0,\"customerCommitString\":\"Within 24 hours\"},\"title\":\"Refur"
+    "variant": "Refurbished Mac mini Apple M4"
   }
 }
