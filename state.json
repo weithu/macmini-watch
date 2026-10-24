@@ -1,16 +1,4 @@
 {
-  "Apple Refurb|Refurbished Mac mini Apple M4 Pro Chip with 14-Core CPU and 20-Core GPU, 10Gb Ethernet \"},{\"sort\":{\"priceAsc\":58,\"priceDesc\":60},\"productDet|1949": {
-    "price": 1949,
-    "retailer": "Apple Refurb",
-    "url": "https://www.apple.com/shop/refurbished/mac/mac-mini",
-    "variant": "Refurbished Mac mini Apple M4 Pro Chip with 14-Core CPU and 20-Core GPU, 10Gb Ethernet \"},{\"sort\":{\"priceAsc\":58,\"priceDesc\":60},\"productDet"
-  },
-  "Apple Refurb|Refurbished Mac mini Apple M4 Pro Chip with 14-Core CPU and 20-Core GPU, Gigabit Ethernet \"},{\"sort\":{\"priceAsc\":47,\"priceDesc\":71},\"product|1779": {
-    "price": 1779,
-    "retailer": "Apple Refurb",
-    "url": "https://www.apple.com/shop/refurbished/mac/mac-mini",
-    "variant": "Refurbished Mac mini Apple M4 Pro Chip with 14-Core CPU and 20-Core GPU, Gigabit Ethernet \"},{\"sort\":{\"priceAsc\":47,\"priceDesc\":71},\"product"
-  },
   "Apple Refurb|Refurbished Mac mini Apple M4|1359": {
     "price": 1359,
     "retailer": "Apple Refurb",
@@ -41,8 +29,8 @@
     "url": "https://www.apple.com/shop/refurbished/mac/mac-mini",
     "variant": "Refurbished Mac mini Apple M4"
   },
-  "Apple Refurb|Refurbished Mac mini Apple M4|679": {
-    "price": 679,
+  "Apple Refurb|Refurbished Mac mini Apple M4|1949": {
+    "price": 1949,
     "retailer": "Apple Refurb",
     "url": "https://www.apple.com/shop/refurbished/mac/mac-mini",
     "variant": "Refurbished Mac mini Apple M4"
